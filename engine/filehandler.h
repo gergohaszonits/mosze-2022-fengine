@@ -16,6 +16,8 @@ using json = nlohmann::json;
  *
  * @return std::vector<Item>
  */
+
+/*
 std::vector<Item> ReadItems()
 {
 
@@ -39,6 +41,7 @@ std::vector<Item> ReadItems()
 
     return items;
 }
+*/
 /*
 void SavePlayer(Player player)
 {
